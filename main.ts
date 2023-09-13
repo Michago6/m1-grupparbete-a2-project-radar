@@ -4,5 +4,4 @@ basic.forever(function () {
     radio.sendNumber(0)
     radio.setGroup(118)
     radio.sendNumber(0)
-    basic.pause(3000)
 })
